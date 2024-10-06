@@ -9,13 +9,13 @@ const Public = () => {
             <main className="public__main">
                 <p>Located in Chennai ,ByteNotes provides a trained staff ready to meet your tech repair needs.</p>
                 <address className="public__addr">
-                    GokulRaj L<br />
-                    Kattupalli<br />
+                    ByteNotes<br />
+                    Chennai Insitute of Technology<br />
                     City-Chennai<br />
                     <a href="tel:+9">9159929231</a>
                 </address>
                 <br />
-                <p>Owner:GokulRaj</p>
+                <p>Owner:ByteNotes Computer Service Centre</p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
